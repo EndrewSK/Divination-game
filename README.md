@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Features
-✔️ **Feature 1** – This short project aims to test the user's intuition ability.
+✔️ **Feature** – This short project aims to test the user's intuition ability.
 
 ---
 
