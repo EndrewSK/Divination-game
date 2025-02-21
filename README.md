@@ -39,10 +39,10 @@ Before starting, make sure you have installed:
 
 ```sh
 # Install this project or clone this repository
-git clone https://github.com/endrewsk/repositorio.git
+git clone https://github.com/EndrewSK/Divination-game.git
 
 # Enter the project folder
-cd repositorio
+cd repository
 
 # Install dependencies
 pip install -r requirements.txt
