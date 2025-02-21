@@ -38,6 +38,7 @@ Before starting, make sure you have installed:
 - Download project [Here](https://github.com/EndrewSK/Divination-game/archive/refs/heads/main.zip)
 
 ```sh
+# Open open the command prompt (cmd) preferably as an administrator
 # Install this project or clone this repository
 git clone https://github.com/EndrewSK/Divination-game.git
 
