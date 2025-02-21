@@ -17,7 +17,17 @@
 ---
 
 ### 🚀 Features
-✔️ **Feature** – This short project aims to test the user's intuition ability.
+✔️ **Feature 1** – 📜 Difficulty Level System
+
+✔️ **Feature 2** – 🎯 Smart Hints
+
+✔️ **Feature 3** – 🎮 Keyboard Navigation
+
+✔️ **Feature 4** – 💻 Automatic Screen Adjustment (Windows)
+
+✔️ **Feature 5** – ⏳ Flow Control and Messages
+
+✔️ **Feature 6** – 🏆 Victory and Defeat System
 
 ---
 
